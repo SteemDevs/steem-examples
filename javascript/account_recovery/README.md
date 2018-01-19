@@ -1,6 +1,6 @@
 ## Account Recovery
 - Clone the repository
-	- `git clone https://github.com/netuoso/steem-examples`
+	- `git clone https://github.com/steemdevs/steem-examples`
 - Enter `account_recovery` directory
 	- `cd steem-examples/javascript/account_recovery`
 - Install Node packages (requires [Node](https://nodejs.org/en/download))
