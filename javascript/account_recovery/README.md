@@ -1,12 +1,12 @@
 ## Account Recovery
 - Clone the repository
 	- `git clone https://github.com/netuoso/steem-examples`
-- Enter `account_recover` directory
-	- `cd steem-examples/javascript/account_recover`
+- Enter `account_recovery` directory
+	- `cd steem-examples/javascript/account_recovery`
 - Install Node packages (requires [Node](https://nodejs.org/en/download))
 	- `npm install`
 - Generate and backup new keys
-	-	`npm run getkeys USERNAME NEW_PASSWORD`
+	- `npm run getkeys USERNAME NEW_PASSWORD`
 - Send the new Owner Public Key to the recovery agent
 - Finish recovery after recovery agent requests account recovery
-	-	`npm run recover USERNAME NEW_PASSWORD OLD_PASSWORD`
+	- `npm run recover USERNAME NEW_PASSWORD OLD_PASSWORD`
