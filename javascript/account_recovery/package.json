@@ -1,0 +1,15 @@
+{
+  "name": "steem-account-recovery",
+  "version": "1.0.0",
+  "description": "Steem Account Recovery Example",
+  "main": "getkeys.js",
+  "scripts": {
+    "getkeys": "node getkeys.js",
+    "recover": "node recover.js"
+  },
+  "author": "SteemDevs",
+  "license": "WTFPL",
+  "dependencies": {
+    "steem": "^0.6.7"
+  }
+}
