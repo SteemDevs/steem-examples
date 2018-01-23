@@ -13,8 +13,6 @@ steem.api.setOptions({url: steemdUrl})
 var moment = require('moment')
 
 function betterParsePayoutAmount(postObject, cb) {
-	console.log(postObject)
-
 	var {
 		created,
 		promoted,
