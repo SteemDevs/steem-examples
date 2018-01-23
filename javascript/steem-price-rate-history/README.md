@@ -6,9 +6,9 @@ This is a microservice application used to get the actual SBD/SP payout of a giv
 
 ## Getting Started
 - Clone the repo
-  - `git clone https://github.com/netuoso/steem-price-rate-history`
+  - `git clone https://github.com/SteemDevs/steem-examples`
 - Enter the app directory
-  - `cd price_rate_history`
+  - `cd steem-examples/javascript/steem-price-rate-history`
 - Install dependencies
   - `npm install`
 - Start your MongoDB client
