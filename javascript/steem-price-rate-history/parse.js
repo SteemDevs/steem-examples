@@ -107,7 +107,6 @@ app.use(function(req, res, next) {
 });
 
 app.get('/', function(req, res) {
-
 	// Required Params:
 	// created, promoted, pending_payout_value, percent_steem_dollars
 	// total_payout_value, curator_payout_value, author_rewards, max_accepted_payout
